@@ -1,6 +1,6 @@
 ## TUGAS MATERI EMPAT
 
-Berikut adalah tampilan aplikasi nya :
+
 
 ![Tampilan Halaman](images/login.png)
 
